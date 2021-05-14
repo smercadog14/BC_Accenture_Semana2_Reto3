@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.divHeader {
+  width: 100%;
+}
+.header {
+  background-color: red;
+  color: black;
+}
+.styleContenedor {
+  margin-top: 130px;
+}
+.footer {
+  background-color: red;
+  color: black;
+
+  font-size: 30px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.datosPOKE {
+  padding: 20px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+.paginacion {
+  list-style: none;
+}
+
+.nameP {
+  font-weight: bolder;
+}
+
+.pkd {
+  font-size: 13px;
+  font-weight: bolder;
+}
+
+.tipoImg {
+  height: 25px;
+  width: 60px;
+}
